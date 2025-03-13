@@ -1,3 +1,3 @@
 def call() {
-    sh 'echo "Welcome to DevOps, This is a shared Library Example"'
+    sh 'echo "Welcome to Java, This is a shared Library Example"'
 }
